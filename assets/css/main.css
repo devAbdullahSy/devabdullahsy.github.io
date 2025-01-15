@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html {
+  direction: rtl;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  height: 100svh;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  width: 250px;
+  border-radius: 50%;
+  outline: 2px solid #fff;
+  border: 3px solid #000;
+}
