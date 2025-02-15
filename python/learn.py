@@ -55,3 +55,16 @@ is_student = True
 print(age1 > 18 and is_student)
 print(age1 < 18 or is_student)
 print(not is_student)
+
+# أنواع البيانات data types
+
+"""
+1. الأرقام (Numbers):
+- int (عدد صحيح): زي 10، -5، 0.
+- float (عدد عشري): زي 3.14، -2.5، 0.0.
+
+2. النصوص (Strings):
+- عبارة عن سلسلة من الحروف أو الرموز. بنحطها بين علامتي تنصيص مفردة (') أو مزدوجة (").
+* مثال: "Hello"، 'Python'.
+"""
+
