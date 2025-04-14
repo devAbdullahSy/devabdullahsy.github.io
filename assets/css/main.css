@@ -88,7 +88,7 @@ main .main__container .main__subtitle {
 }
 main .main__container .main__description {
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   color: var(--Lightest);
   margin-bottom: 20px;
