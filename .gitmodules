@@ -2,9 +2,9 @@
 	path = projects
 	url = https://github.com/devAbdullahSy/projects.git
 
-[submodule "articles"]
-	path = articles
-	url = https://github.com/devAbdullahSy/articles.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/devAbdullahSy/blog.git
 
 [submodule "tasks"]
 	path = tasks
