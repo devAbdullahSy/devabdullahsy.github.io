@@ -1,11 +1,3 @@
 [submodule "projects"]
 	path = projects
 	url = https://github.com/devAbdullahSy/projects.git
-
-[submodule "blog"]
-	path = blog
-	url = https://github.com/devAbdullahSy/blog.git
-
-[submodule "tasks"]
-	path = tasks
-	url = https://github.com/devAbdullahSy/tasks.git
